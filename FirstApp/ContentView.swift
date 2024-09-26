@@ -12,7 +12,7 @@ struct ContentView: View {
         
             Text("Water tracker 💦")
                 .bold()
-                .font(.system(size: 20))
+                .font(.system(size: 21))
                 .padding()
         
         
